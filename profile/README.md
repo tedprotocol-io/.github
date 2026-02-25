@@ -42,11 +42,13 @@ TED Protocol:      $1,000 transfer → $3 fee, 5-10 minutes
 
 | Repository | Description |
 |------------|-------------|
-| [ted-stable-swap](https://github.com/tedprotocol-io/ted-stable-swap) | Core swap protocol - smart contracts, backend API, frontend |
+| [ted-stable-swap](https://github.com/tedprotocol-io/ted-stable-swap) | Core swap protocol — smart contracts, backend API |
+| [ted-swap-frontend](https://github.com/tedprotocol-io/ted-swap-frontend) | Web application — Next.js 16, RainbowKit, Wagmi v2 |
 
 ## Links
 
 - **Testnet**: [testnet.tedprotocol.io](https://testnet.tedprotocol.io)
+- **Staging**: [staging.tedprotocol.io](https://staging.tedprotocol.io)
 - **Documentation**: Coming soon
 
 ## Tech Stack
@@ -55,14 +57,13 @@ TED Protocol:      $1,000 transfer → $3 fee, 5-10 minutes
 
 **Backend**: Node.js, TypeScript, Express, PostgreSQL, Redis
 
-**Frontend**: Next.js 14, React, Wagmi, Viem, TailwindCSS
+**Frontend**: Next.js 16, React 19, RainbowKit, Wagmi v2, Viem v2, Zustand, TailwindCSS v4
 
 ## Status
 
 **Phase 3**: Full Decentralization (In Progress)
 
-- Phase 1: Same-chain swaps
-- Phase 2: Cross-chain USD stablecoins
-- **Phase 3**: User-signed mode (current)
-- Phase 4: Multi-currency FX (EUR, JPY, KRW)
-
+- ✅ Phase 1: Same-chain swaps
+- ✅ Phase 2: Cross-chain USD stablecoins
+- 🔄 Phase 3: User-signed mode (current)
+- 🚀 Phase 4: Multi-currency FX (EUR, JPY, KRW)
