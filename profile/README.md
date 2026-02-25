@@ -28,7 +28,7 @@ TED Protocol:      $1,000 transfer → $3 fee, 5-10 minutes
 - Ethereum
 - Arbitrum One
 - Base
-- OP Mainnet
+- Polygon
 - BNB Chain (BSC)
 - Kaia
 
