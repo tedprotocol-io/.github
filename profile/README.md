@@ -38,12 +38,9 @@ TED Protocol:      $1,000 transfer → $3 fee, 5-10 minutes
 
 **Coming Soon**: EURC, JPYC, KRWO (Multi-currency FX)
 
-## Repositories
+## Repository
 
-| Repository | Description |
-|------------|-------------|
-| [ted-stable-swap](https://github.com/tedprotocol-io/ted-stable-swap) | Core swap protocol — smart contracts, backend API |
-| [ted-swap-frontend](https://github.com/tedprotocol-io/ted-swap-frontend) | Web application — Next.js 16, RainbowKit, Wagmi v2 |
+[**ted-swap-frontend**](https://github.com/tedprotocol-io/ted-swap-frontend) — Next.js 16, React 19, Wagmi v2, Viem v2, RainbowKit, Zustand, TailwindCSS v4
 
 ## Links
 
